@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Online_Education/static/css/main.67abfbf1.css",
+    "main.js": "/Online_Education/static/js/main.e9dd6172.js",
+    "static/media/event_img.jpg": "/Online_Education/static/media/event_img.15a17c535be3cfd93f25.jpg",
+    "static/media/slider3.jpg": "/Online_Education/static/media/slider3.a5a76bda6a372c9e96b1.jpg",
+    "static/media/slider1.jpg": "/Online_Education/static/media/slider1.6736ad2b33b3ac46dee3.jpg",
+    "static/media/slider2.jpg": "/Online_Education/static/media/slider2.2f1bc7281a0a4ffa0b86.jpg",
+    "static/media/services1.png": "/Online_Education/static/media/services1.c03ab66e5578149ebbf9.png",
+    "static/media/services2.png": "/Online_Education/static/media/services2.fbd7a0a40074604459b8.png",
+    "static/media/services3.png": "/Online_Education/static/media/services3.510ee4b6da7bbdeffe15.png",
+    "static/media/welcome.jpg": "/Online_Education/static/media/welcome.b0b163a79fa69d75e7f9.jpg",
+    "static/media/featured_05.jpg": "/Online_Education/static/media/featured_05.19c28d566cf7b2c1a6a2.jpg",
+    "static/media/member_03.jpg": "/Online_Education/static/media/member_03.175bc8d71e182cf746c6.jpg",
+    "static/media/featured_04.jpg": "/Online_Education/static/media/featured_04.d40d28b0bf6d5b37e75f.jpg",
+    "static/media/featured_06.jpg": "/Online_Education/static/media/featured_06.2176cc3786aa3d6b8048.jpg",
+    "static/media/featured_02.jpg": "/Online_Education/static/media/featured_02.69fb51cfb60a61a06804.jpg",
+    "static/media/featured_03.jpg": "/Online_Education/static/media/featured_03.18e0d24d166272245add.jpg",
+    "static/media/member_02.jpg": "/Online_Education/static/media/member_02.c207689fb576b80e276d.jpg",
+    "static/media/member_01.jpg": "/Online_Education/static/media/member_01.2f35336390e7289c666c.jpg",
+    "static/media/featured_01.jpg": "/Online_Education/static/media/featured_01.a9b600b9da9663fa9524.jpg",
+    "static/media/big_bg.jpg": "/Online_Education/static/media/big_bg.83b3cfe8fab6ab69b838.jpg",
+    "index.html": "/Online_Education/index.html",
+    "main.67abfbf1.css.map": "/Online_Education/static/css/main.67abfbf1.css.map",
+    "main.e9dd6172.js.map": "/Online_Education/static/js/main.e9dd6172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67abfbf1.css",
+    "static/js/main.e9dd6172.js"
+  ]
+}
