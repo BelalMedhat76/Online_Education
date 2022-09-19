@@ -1,0 +1,9 @@
+.socialIcon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+  margin: auto;
+    width: 300px;
+margin-bottom: 20px;
+}
